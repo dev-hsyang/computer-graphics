@@ -1,5 +1,5 @@
 # Computer Graphics
-비주얼컴퓨팅-컴퓨터그래픽스
+비주얼컴퓨팅 - 컴퓨터그래픽스
 
 # -Viewing
 ![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/ea87bfc6-faee-4abd-ae94-30cd39bcb54c)
