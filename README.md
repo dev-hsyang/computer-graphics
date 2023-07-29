@@ -2,7 +2,7 @@
 비주얼컴퓨팅 - 컴퓨터그래픽스
 
 # 1. Viewing
-## 1-1. Project Result
+## 1-1. Result
 ![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/ea87bfc6-faee-4abd-ae94-30cd39bcb54c)
 
 ## 1-2. Outline
@@ -12,7 +12,7 @@
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 32 40" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/f441894c-ada9-41d6-8b62-3b80a7d998d5">
 
 # 2. Phong Shading
-## 2-1. Project Result
+## 2-1. Result
 ![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/7fecfbd7-ecbb-468c-8c8f-78df879b4f48)
 
 ## 2-2. Outline
@@ -24,7 +24,7 @@
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 39 09" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/a5a7906f-ca1b-4ad2-9d63-8f4358370dbc">
 
 # 3. Texture Mapping & Bump Mapping
-## 3-1. Project Result
+## 3-1. Result
 ![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/27f53fed-ec4b-45ab-8ce9-a5488bba5f27)
 
 ## 3-2. Outline
@@ -37,7 +37,7 @@
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 44 45" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/d2e7f428-04e8-461f-bdc4-0d838e685dd4">
 
 # 4. Shadow Mapping
-## 4-1. Project Result
+## 4-1. Result
 ![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/66d9d928-5d9e-48eb-ba1e-3f08e1b963ff)
 
 ## 4-2. Outline
