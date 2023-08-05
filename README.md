@@ -3,7 +3,7 @@
 
 # 1. Viewing
 ## 1-1. Result
-![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/ea87bfc6-faee-4abd-ae94-30cd39bcb54c)
+https://github.com/dev-hsyang/computer-graphics/assets/89997300/71421b2f-f4ac-4505-a2bf-ccca96d660a2
 
 ## 1-2. Outline
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 31 58" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/d62bf252-3cf5-46a1-b8c9-d57bc80225cf">
@@ -11,9 +11,10 @@
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 32 28" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/98788a91-9dab-436b-9e39-6b93a7ab39d7">
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 32 40" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/f441894c-ada9-41d6-8b62-3b80a7d998d5">
 
+
 # 2. Phong Shading
 ## 2-1. Result
-![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/7fecfbd7-ecbb-468c-8c8f-78df879b4f48)
+https://github.com/dev-hsyang/computer-graphics/assets/89997300/981a9952-c8cf-44ce-93ee-ce80fa0f9b52
 
 ## 2-2. Outline
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 38 06" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/1f18118d-dd58-4a32-8074-65dca494c6c1">
@@ -23,9 +24,10 @@
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 38 59" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/fd62de4a-dbad-492b-ac52-2775216eccfa">
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 39 09" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/a5a7906f-ca1b-4ad2-9d63-8f4358370dbc">
 
+
 # 3. Texture Mapping & Bump Mapping
 ## 3-1. Result
-![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/27f53fed-ec4b-45ab-8ce9-a5488bba5f27)
+https://github.com/dev-hsyang/computer-graphics/assets/89997300/77a1ef9f-6932-4a76-ab62-eb1496c1e0a8
 
 ## 3-2. Outline
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 43 31" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/c3863f2b-7d30-4740-9b19-8796e3aa71bb">
@@ -36,9 +38,10 @@
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 44 36" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/03fc622a-7d5e-44ff-b049-79368b1fe741">
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 44 45" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/d2e7f428-04e8-461f-bdc4-0d838e685dd4">
 
+
 # 4. Shadow Mapping
 ## 4-1. Result
-![image](https://github.com/dev-hsyang/computer-graphics/assets/89997300/66d9d928-5d9e-48eb-ba1e-3f08e1b963ff)
+https://github.com/dev-hsyang/computer-graphics/assets/89997300/7fd40b6e-be14-4369-96e1-898b88118721
 
 ## 4-2. Outline
 <img width="2069" alt="스크린샷 2023-07-11 오전 12 50 42" src="https://github.com/dev-hsyang/computer-graphics/assets/89997300/191230e0-2f6b-4b4c-aad6-aef21b9a7232">
